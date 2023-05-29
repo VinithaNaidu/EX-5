@@ -52,9 +52,11 @@ while True:
  ```
 ## OUTPUT :
 ## Client:
+![image](https://github.com/VinithaNaidu/EX-5/assets/121166004/ffc83c12-f0ed-4348-9fd9-05d048ae5646)
 
 
 ## Server:
+![image](https://github.com/VinithaNaidu/EX-5/assets/121166004/44f614ad-e53a-4b29-9b6c-4f7b9ea62e22)
 
 
 RESULT :
